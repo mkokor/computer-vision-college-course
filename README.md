@@ -1,6 +1,6 @@
 # About repository
 <p align="justify">
-This repository contains solutions for computer vision college course labs. The college name is <a href="https://www.etf.unsa.ba/">Faculty of Electrical Engineering Sarajevo</a>. Solutions are implemented in Python. 
+This repository contains solutions for Computer Vision college course labs. The college name is <a href="https://www.etf.unsa.ba/">Faculty of Electrical Engineering Sarajevo</a>. Solutions are implemented in Python. 
 Jupyter Notebook development environment is used for coding, so this repository provides .ipynb file for each topic (instead of .py file).
 </p>
 
